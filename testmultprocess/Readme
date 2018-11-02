@@ -5,3 +5,4 @@ test_queue.py   #Queue的使用
 multipc.py      #使用Queue实现进程间通信
 procpoll.py     #进程池
 filecopy.py     #文件夹的拷贝器-实现需要拷贝哪个文件夹，目标目录，则将第一个文件夹拷贝到指定文件夹
+注：test01是用来测试filecopy的目录，没有其他作用
