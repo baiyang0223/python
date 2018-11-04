@@ -7,4 +7,9 @@ test_queue3.py  #进程池使用Queue进行进程间通信
 multipc.py      #使用Queue实现进程间通信
 procpoll.py     #进程池
 filecopy.py     #文件夹的拷贝器-实现需要拷贝哪个文件夹，目标目录，则将第一个文件夹拷贝到指定文件夹
+
+ult_pro1.py     #实战之多进程图片下载
+ult_pro2.py     #实战之进程池图片下载
+
+
 注：test01是用来测试filecopy的目录，没有其他作用
