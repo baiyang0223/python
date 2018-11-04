@@ -16,6 +16,8 @@ def main():
     
     if not q.empty():
         print("not empty")
+        print(q.empty())
+        print(q.full())
     else:
         print("empty-size %d" % (q.qsize()))
         print(q.empty())

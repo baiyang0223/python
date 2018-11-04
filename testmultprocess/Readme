@@ -2,6 +2,8 @@
 
 multproc1.py    #测试多进程和多进程间全局变量的独立性
 test_queue.py   #Queue的使用
+test_queue2.py  #使用Queue实现进程间通信
+test_queue3.py  #进程池使用Queue进行进程间通信
 multipc.py      #使用Queue实现进程间通信
 procpoll.py     #进程池
 filecopy.py     #文件夹的拷贝器-实现需要拷贝哪个文件夹，目标目录，则将第一个文件夹拷贝到指定文件夹
