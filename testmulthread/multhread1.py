@@ -5,7 +5,7 @@ import time
 
 def sing():
     for i in range(5):
-        print("{}---sing music---".format(threading.current_thread().name))
+        print("{}---sing---".format(threading.current_thread().name))
         time.sleep(1)
 
 

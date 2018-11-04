@@ -4,3 +4,5 @@ multhread3.py   #多线程共享全局变量,和函数参数
 multhread4.py   #多线程间的互斥访问
 multhread5.py   #udp的多线程客户端
 multhread6.py   #主线程关闭，子线程关闭的问题
+multhread7.py   #复习-》通过函数参数对全局变量和局部变量修改
+multhread8.py   #python中条件变量的使用
