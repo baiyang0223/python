@@ -1,0 +1,8 @@
+
+#协程测试
+testyield01.py  利用协程实现并发
+testgreenlet.py  利用协程greelet来实现并发
+testgevent1.py    利用协程gevent来实现网络并发
+testgevent2.py   利用协程gevent来实现网络并发->更换休眠函数解决上述没有并发的问题
+testgevent3.py   利用协程gevent来实现网络并发->实际使用方式 ×××协程模板××××
+testdownimage.py 实战：使用协程实现多任务下载网络图片
