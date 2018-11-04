@@ -9,3 +9,5 @@ testunittest  #学习unittest
 testmulthread #学习多线程
 testprocess   #学习多进程
 testIterater  #学习迭代器
+testgenerator #学习生成器
+

@@ -1,0 +1,8 @@
+
+测试生成器
+fibonacci-generator.py      ->利用打印追踪生成器流程
+testgenerator01.py          ->利用生成器创建一个斐波那契梳理
+testgenerator02.py          ->多个生成器对象交叉调用next判断生成器对象是否独立
+testgenerator03.py          ->yield对象最后return的数据怎么获取
+testgenerator04.py          ->使用next和send来获取数据
+testgenerator05.py          ->使用send传递参数及原理
