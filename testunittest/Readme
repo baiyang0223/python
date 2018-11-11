@@ -1,0 +1,5 @@
+
+testcode ->测试代码
+testmain ->测试用例
+
+testcls  ->测试类的@staticmethod或@classmethod方法
