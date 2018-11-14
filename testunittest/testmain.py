@@ -14,6 +14,7 @@ from BeautifulReport import BeautifulReport
 
 
 class TestFunc(unittest.TestCase):
+    num=1
     def setUp(self):
         print("每个TestCase都会先先执行一遍setUp")
     
@@ -22,6 +23,7 @@ class TestFunc(unittest.TestCase):
     
     @classmethod
     def setUpClass(cls):
+        print("打印num",cls.num)  # cls.变量,这个cls就是当前对象的self吧？
         print("测试suit开始前都会先先执行一遍setUpClass")
     
     @classmethod
@@ -30,8 +32,9 @@ class TestFunc(unittest.TestCase):
 
     def test_fomat_name(self):
         """test format name"""
+        print("打印num",self.num)
         print("test_fomat_name")
-        name=testcode.get_formatted_name("Bai","Yang")
+        name=testcode.get_formatted_name("Bai2","Yang")
         self.assertEqual(name,"Bai Yang")
         name=testcode.get_formatted_name("Cao","qi","Wei")
         self.assertEqual(name,"Cao Wei Qi")

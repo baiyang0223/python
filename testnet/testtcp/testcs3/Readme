@@ -1,0 +1,11 @@
+.
+├── Readme
+├── testtcp
+│   ├── testcs1   #测试TCP服务器客户端的基本操作
+│   ├── testcs2   #测试TCP服务器客户端的基本操作2-服务器和客户端如何检测对端关闭的
+│   └── testcs3   #测试客户端从服务器下载文件
+└── testudp
+    ├── testrw   #测试udp服务器从客户端接收数据并回复
+    ├── testudp02.py
+    └── testudp1.py #测试udp服务基本操作
+
