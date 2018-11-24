@@ -1,0 +1,6 @@
+
+本文主要使用paramiko模块进行ssh通信和sftp传输文件。
+testssh.py  #测试ssh基本功能
+testscp.py  #测试scp传输文件
+testscp2.py #测试scp传输文件2
+testxshell.py   #利用paramiko实现交互式xshee登录。

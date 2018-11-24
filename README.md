@@ -13,7 +13,7 @@ testIterater  #学习迭代器
 testgenerator #学习生成器
 testyield     #学习协程
 testregular   #学习正则表达式
-
+testSSH       #学习使用python进行ssh登录或者远程执行命令
 
 
 python学习要点：
