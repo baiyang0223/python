@@ -15,6 +15,7 @@ import socket
 
 
 def main():
+    new_sock = None
     client_list = list()
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)  # availd address reused

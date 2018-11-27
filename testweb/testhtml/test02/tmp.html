@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>This is test html</title>
+        <script src="tmp.js"></script>
+    </head>
+    <body>
+        <h1 id="h1-main">Test JS</h1>
+        <p id="pinfo">This is test</p>
+        <script>
+            document.write("<p id='demo'>test js.write</p>")
+            function changeDemo()
+            {
+                document.getElementById("demo").innerHTML="change js.write"
+            }
+        </script>
+        <button type="button" onclick=changeDemo() >点击这里</button>
+
+    </body>
+
+
+</html>

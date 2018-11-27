@@ -1,0 +1,40 @@
+General:
+Request URL: https://www.baidu.com/
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 127.0.0.1:33591
+Referrer Policy: no-referrer-when-downgrade
+
+Response Headers  -> view source
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Connection: Keep-Alive
+Content-Encoding: gzip
+Content-Type: text/html;charset=utf-8
+Coremonitorno: 0
+Date: Tue, 13 Nov 2018 22:18:40 GMT
+Server: apache
+Set-Cookie: H_WISE_SIDS=126937_124610_125819_125589_126810_120223_123019_126045_118890_118863_118853_118827_118794_107316_126995_126864_126144_126815_126797_126558_117331_126792_117432_126782_126442_127024_126380_126163_125925_126281_126942_126684_126773_125489_126721_126091_125853_126359_126405_126963_124036_126434_110085_126563_126504_126621; path=/; domain=.baidu.com
+Set-Cookie: bd_traffictrace=140618; expires=Thu, 08-Jan-1970 00:00:00 GMT
+Set-Cookie: FEED_SIDS=649822_1114_6; path=/; domain=.baidu.com
+Set-Cookie: BDSVRTM=284; path=/
+Set-Cookie: eqid=deleted; path=/; domain=.baidu.com; expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=172800
+Tracecode: 11209970090545421322111406
+Tracecode: 11207214830745241354111406
+Traceid: 154214752001934930027265330450222590628
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+
+Request Headers ->view source
+GET / HTTP/1.1
+Host: www.baidu.com
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BAIDUID=A9B9FA64B52D62ED377F48F6FF30D5CE:FG=1; BIDUPSID=A9B9FA64B52D62ED377F48F6FF30D5CE; PSTM=1534257770; BD_UPN=123353; BDUSS=l-VEFYa1FyYXFkY3NiSFhoNjVVd0ZOalZPN3NEeFNnQ3AzeXdXTU9WQU5pLTliQVFBQUFBJCQAAAAAAAAAAAEAAAB-X3dG0KGw118wMjIzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3-x1sN~sdbU3; BDORZ=B490B5EBF6F3CD402E515D22BCDA1598; MCITY=131-170%3A131%3A; H_PS_PSSID=1446_21120_27543; BDSFRCVID=t3DsJeC62lAjB5v7guTxUqGqu2qEYq6TH6aoNLXolXhwx4O6amOoEG0PqM8g0Ku-aG3kogKK0mOTHUcP; H_BDCLCKID_SF=JJPOVCI-JKvKejulj6AWq4tehHRJJM3eWDTm_Dos0RcIMtL6bnox2hLLQpQtJJo4y6Cq-pPKKR7F8Mnvhh7s5nv3XNjK2xRy3mkjbPjzfn02OPKz-ft5MP4syP4j2xRnWNT2bIcJ-J8XhIIljMK; BDRCVFR[feWj1Vr5u3D]=I67x6TjHwwYf0; delPer=0; BD_CK_SAM=1; PSINO=7; BD_HOME=1

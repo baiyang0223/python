@@ -1,0 +1,9 @@
+getbaidu.txt  =>和百度交互数据信息采集
+testserver1.py  =>服务器给客户端返回固定的数据（暂时不支持多任务）
+testserver2.py  =>服务器给客户端返回需要文档的数据
+testserver3.py  =>服务器给客户端返回需要文档的数据(多进程)
+testserver4.py  =>服务器给客户端返回需要文档的数据(多线程)
+testserver5.py  =>服务器给客户端返回需要文档的数据(协成)
+testserver6.py  =>服务器给客户端返回需要文档的数据(单进程、单线程非阻塞)
+testserver7.py  =>单任务非阻塞长链接
+testserver8.py  =>epoll的实现（重点）
