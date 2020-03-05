@@ -4,3 +4,4 @@ testssh.py  #测试ssh基本功能
 testscp.py  #测试scp传输文件
 testscp2.py #测试scp传输文件2
 testxshell.py   #利用paramiko实现交互式xshee登录。
+py_auto     #批量ssh自动化测试
